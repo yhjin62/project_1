@@ -36,7 +36,7 @@ smtp = smtplib.SMTP_SSL(gmail_smtp, gmail_port)
  
 # 로그인
 my_account = "5128166@gmail.com"
-my_password = "dydgns9866!"
+my_password = "abcdefg"
 smtp.login(my_account, my_password)
  
 # 메일을 받을 계정
